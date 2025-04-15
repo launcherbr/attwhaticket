@@ -1,22 +1,18 @@
 # 📝 Log de Versões
 
+## 🚀 Versão 6.0.0 - 15/04/2025 (18:00)
+Aguardando disponibilidade dos arquivos e as alterações.
+
 ## 🚀 Versão 5.5.0 - 29/03/2025 (15:00)
 
 Arquivos corrigidos: queues.ts (Envio de texto + img nas campanhas); SendWhatsAppMedia.ts (Envio de Audio em respota rapidas); wbotMessageListener.ts (Correção MENU duplicado).
 
-*Faça a atualização executando o arquivo update com usuário deploy
-
-su deploy
-
-chmod 777 update
-./update
+*Faça a atualização executando o arquivo update com usuário deploy: su deploy - chmod 777 update - ./update
 
 FIX: Envio de midia na fila (QueueOptionController.ts, QueueController.ts, wbotMessageListener.ts)
 FIX: ,Contact (Erro de digitação) "Linha 2108: const body = `\u200e ${whatsapp.outOfHoursMessage}`;" (wbotMessageListener.ts)
 
 Correção do envio de fila WHATICKET:
-
-(Verificando) Removemos a verificação baseada em regex que impedia a seleção de filas após uma mensagem inválida. Agora, qualquer entrada numérica válida é aceita, independente da última mensagem enviada pelo bot.
 
 Corrigido envio de midias com legenda de texto.
 
