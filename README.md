@@ -7,7 +7,7 @@
 ✅ Estilos dos cards da Dashboard alterados (botão de impressão removido) <br>
 ✅ Estilo de tickets ajustado <br>
 ✅ Respostas rápidas reformuladas (novo layout) <br>
-✅ Correção no envio de menu (filas) – na terceira tentativa de não escolha de fila, a mensagem é enviada automaticamente para a primeira fila. <br>
+✅ Correção no envio de menu (filas) – na terceira tentativa, a mensagem é enviada automaticamente para a primeira fila. <br>
 ✅ Botão de tradução adicionado <br>
 ✅ Aviso de contato (quando o ticket está aberto, um aviso é emitido) <br>
 ✅ Página de conexão redesenhada <br>
