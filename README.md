@@ -1,6 +1,6 @@
 # 📝 Log de Versões
 
-## 🚀 Versão 6.0.0 - 16/04/2025 (20:00) <br>
+## 🚀 Versão 6.0.0 - 16/04/2025 <br>
 
 ✅ Correções no Darkmode (em mensagens) <br>
 ✅ Botão Light/Dark movido (agora localizado no perfil) <br>
@@ -17,7 +17,7 @@
 ✅ Novo layout das telas de login e signup <br>
 ✅ Correção de vazamento no WebSocket <br>
 
-## 🚀 Versão 5.5.0 - 13/11/2024 (13:17) <br>
+## 🚀 Versão 5.5.0 - 13/11/2024 <br>
 
 ✅ Correção ao Redimensionar Área de Ticket: Erro corrigido ao redimensionar. <br>
 ✅ Correção de toastError.js: Problema resolvido no `toastError.js`. <br>
@@ -58,7 +58,7 @@
 ✅ Novo layout da página de login. <br>
 ✅ Indicação “Digitando” ou “Gravando” aparece no ticket, no canto inferior direito, ao lado do nome. <br>
 
-## 24/07/2024 <br>
+## 🚀 Versão 5.0.0 - 24/07/2024 <br>
 
 ✅ Fizemos correção no Vcard <br>
 ✅ Função de habilitar e desabilitar novos registros <br>
