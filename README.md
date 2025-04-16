@@ -1,21 +1,21 @@
 # 📝 Log de Versões
 
-## 🚀 Versão 6.0.0 - 15/04/2025 (18:00)
-Aguardando disponibilidade dos arquivos e as alterações.
+## 🚀 Versão 6.0.0 - 16/04/2025 (20:00)
 
-## 🚀 Versão 5.5.0 - 29/03/2025 (15:00)
-
-Arquivos corrigidos: queues.ts (Envio de texto + img nas campanhas); SendWhatsAppMedia.ts (Envio de Audio em respota rapidas); wbotMessageListener.ts (Correção MENU duplicado).
-
-*Faça a atualização executando o arquivo update com usuário deploy: su deploy - chmod 777 update - ./update
-
-FIX: Envio de midia na fila (QueueOptionController.ts, QueueController.ts, wbotMessageListener.ts)
-FIX: ,Contact (Erro de digitação) "Linha 2108: const body = `\u200e ${whatsapp.outOfHoursMessage}`;" (wbotMessageListener.ts)
-
-Correção do envio de fila WHATICKET:
-
-Corrigido envio de midias com legenda de texto.
-
+ Correções no Darkmode (em mensagens)
+✅ Botão Light/Dark movido (agora localizado no perfil)
+✅ Estilos dos cards da Dashboard alterados (botão de impressão removido)
+✅ Estilo de tickets ajustado
+✅ Respostas rápidas reformuladas (novo layout)
+✅ Correção no envio de menu (filas) – na terceira tentativa de não escolha de fila, a mensagem é enviada automaticamente para a primeira fila.
+✅ Botão de tradução adicionado
+✅ Aviso de contato (quando o ticket está aberto, um aviso é emitido)
+✅ Página de conexão redesenhada
+✅ Inclusão da opção de SuperAdmin (no popup de usuário)
+✅ Correção de agendamento (agora permite enviar imagem junto ao texto)
+✅ Agendamento reformulado (suporte para ciclos adicionado)
+✅ Novo layout das telas de login e signup
+✅ Correção de vazamento no WebSocket
 
 ## 🚀 Versão 5.5.0 - 13/11/2024 (13:17)
 
