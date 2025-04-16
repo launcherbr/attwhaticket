@@ -2,7 +2,7 @@
 
 ## 🚀 Versão 6.0.0 - 16/04/2025 (20:00)
 
- Correções no Darkmode (em mensagens)
+✅ Correções no Darkmode (em mensagens)
 ✅ Botão Light/Dark movido (agora localizado no perfil)
 ✅ Estilos dos cards da Dashboard alterados (botão de impressão removido)
 ✅ Estilo de tickets ajustado
