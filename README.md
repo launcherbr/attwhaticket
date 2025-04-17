@@ -1,6 +1,6 @@
 # 📝 Log de Versões
 
-## 🚀 Versão 6.0.0 - 16/04/2025 <br>
+## 🚀 Versão 6.0.0 - 16/04/2025
 
 ✅ Correções no Darkmode (em mensagens) <br>
 ✅ Botão Light/Dark movido (agora localizado no perfil) <br>
@@ -17,7 +17,7 @@
 ✅ Novo layout das telas de login e signup <br>
 ✅ Correção de vazamento no WebSocket <br>
 
-## 🚀 Versão 5.5.0 - 13/11/2024 <br>
+## 🚀 Versão 5.5.0 - 13/11/2024
 
 ✅ Correção ao Redimensionar Área de Ticket: Erro corrigido ao redimensionar. <br>
 ✅ Correção de toastError.js: Problema resolvido no `toastError.js`. <br>
@@ -32,7 +32,7 @@
 ✅ Correção Chat no modo Dark <br>
 ✅ Inserido pastas por empresas na "public" <br>
 
-## 🚀 Versão 5.3.5 - 07/11/2024 <br>
+## 🚀 Versão 5.3.5 - 07/11/2024
 
 ✅ Correção da Data de Vencimento no Topo: A data agora permanece fixa. <br>
 ✅ Automação em Grupos: Não envia automações para grupos. <br>
@@ -46,7 +46,7 @@
 ✅ Visualização de Grupos por Operador: Aba removida do painel de usuários. <br>
 ✅ Atualização Financeira após Alteração de Plano: Valor ajustado automaticamente na lista do Financeiro. <br>
 
-## 🚀 Versão 5.2.6 - 31/08/2024 <br>
+## 🚀 Versão 5.2.6 - 31/08/2024
 
 ✅ Fechar todos os tickets abertos ou em espera. <br>
 ✅ Reagir a uma mensagem. <br>
@@ -58,7 +58,7 @@
 ✅ Novo layout da página de login. <br>
 ✅ Indicação “Digitando” ou “Gravando” aparece no ticket, no canto inferior direito, ao lado do nome. <br>
 
-## 🚀 Versão 5.0.0 - 24/07/2024 <br>
+## 🚀 Versão 5.0.0 - 24/07/2024
 
 ✅ Fizemos correção no Vcard <br>
 ✅ Função de habilitar e desabilitar novos registros <br>
