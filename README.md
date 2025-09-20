@@ -1,5 +1,9 @@
 # 📝 Log de Versões
 
+## 🚀 Versão 6.3.0 - 20/09/2025
+
+✅ Correções JID/LID<br>
+
 ## 🚀 Versão 6.0.0 - 16/04/2025
 
 ✅ Correções no Darkmode (em mensagens) <br>
