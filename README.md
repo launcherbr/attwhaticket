@@ -1,10 +1,5 @@
 # 📝 Log de Versões
 
-Garanta seu acesso as atualizações com 50% de desconto acessando nossa 
-[Loja na InfinitePay](https://loja.infinitepay.io/launcher-tecnologia/ine6649-whaticket-renovacao) </br>
-Caso já tenha adquirido entre em contato com o suporte para atualizar suas permissões de acesso.
-
-
 ## 🚀 Versão 6.3.1 - 29/09/2025
 ✅ Melhorias no funcionamento Baileys<br>
 ✅ Correções de Performace<br>
