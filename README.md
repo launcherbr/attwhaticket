@@ -1,5 +1,9 @@
 # 📝 Log de Versões
 
+## 🚀 Versão 6.3.2 - 28/10/2025
+✅ Correção de criptografia de grupos<br>
+✅ Correções lib/wbot.ts<br>
+
 ## 🚀 Versão 6.3.1 - 29/09/2025
 ✅ Melhorias no funcionamento Baileys<br>
 ✅ Correções de Performace<br>
