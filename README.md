@@ -2,7 +2,7 @@
 
 ## 🚀 Versão 6.3.5 - 11/11/2025
 ✅ Adicionado Mercado Pago<br>
-✅ Integração Gemini<br>
+✅ Integração Gemini (ativação futura)<br>
 
 ## 🚀 Versão 6.3.2 - 28/10/2025
 ✅ Correção de criptografia de grupos<br>
