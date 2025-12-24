@@ -1,5 +1,9 @@
 # 📝 Log de Versões
 
+## 🚀 Versão 6.5.0 - 23/12/2025
+✅ Backup<br>
+✅ Aniversários & Feriados <br>
+
 ## 🚀 Versão 6.3.5 - 11/11/2025
 ✅ Adicionado Mercado Pago<br>
 ✅ Integração Gemini (ativação futura)<br>
