@@ -1,5 +1,14 @@
 # 📝 Log de Versões
 
+## 🚀 Versão 6.6.1 - 23/12/2025
+✅ Envio de Chave PIX com um click <br>
+✅ Suporte Envio de GIFs e Stickers <br>
+✅ Ajustes no Modo Dark <br>
+✅ Novo Topo no Sistema <br>
+✅ Correções no Menu <br>
+✅ Correção no Audio <br>
+✅ Removido Página Updates <br>
+
 ## 🚀 Versão 6.5.0 - 23/12/2025
 ✅ Backups do Sistema<br>
 ✅ Aniversários & Feriados <br>
