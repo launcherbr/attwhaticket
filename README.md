@@ -1,5 +1,8 @@
 # 📝 Log de Versões
 
+## 🚀 Versão 6.6.3 - 01/08/2026
+✅ Correções e Melhorias<br>
+
 ## 🚀 Versão 6.3.0 - 23/03/2026
 ✅ Biblioteca libzapitu-rf<br>
 
